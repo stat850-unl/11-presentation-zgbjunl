@@ -3,7 +3,7 @@
 ## Instructions
 
 ### Part 1
-
+test
 For this assignment, you will create a set of slides in at least two different programs -- one that requires knitr (so a LaTeX based slide deck) and one that requires Rmarkdown. You may pick any of the libraries mentioned in the textbook or any modules you discover online. 
 
 In your slides, I'd like you to introduce yourself, provide some basic biographical information (birthday, where you grew up, what program you're in, and when you expect to graduate). On subsequent slides, you should provide:
