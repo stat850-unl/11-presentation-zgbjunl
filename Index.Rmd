@@ -5,3 +5,13 @@ date: "11/29/2021"
 output: html_document
 ---
 
+
+https://github.com/stat850-unl/11-presentation-zgbjunl/blob/master/NannanResume.pdf
+
+rMarkdown slides:
+file:///Users/nannanwang/OneDrive%20-%20University%20of%20Nebraska-Lincoln/2021%20Fall/850%20data/11-presentation-zgbjunl/NannanWang-rMarkdown-Slides.html#1
+
+[Click this to view Nannan's CV](https://github.com/stat850-unl/11-presentation-zgbjunl/blob/master/NannanResume.pdf)
+
+
+https://github.com/stat850-unl/11-presentation-zgbjunl/blob/master/SlideLatex.pdf
