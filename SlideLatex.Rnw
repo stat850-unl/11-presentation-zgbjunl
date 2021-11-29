@@ -1,0 +1,45 @@
+\documentclass{beamer}
+
+\begin{document}
+
+\title{My Introduction}
+\author{Nannan Wang}
+
+\maketitle
+
+\begin{frame}[fragile]
+\begin{enumerate}
+\item \textbf {Background}
+\begin{enumerate}
+\item I am from Beijing, China.
+\item I enrolled in the university of Nebraska Lincoln in 2018 Summer.
+\item I am currently working on two master's degrees in Education and Statistics.
+     \item I expect to graduate in 2022!
+   \end{enumerate}
+ \end{enumerate}
+\end{frame}
+
+\begin{frame}[fragile]
+\textbf{My favorite animal}
+\begin{figure}
+  \includegraphics[width=\linewidth]{giraffe.png}
+  \caption{A Giraffe.}
+\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+\textbf{My favorite graph from STAT-850}
+\begin{figure}
+  \includegraphics[width=\linewidth]{myGraph.png}
+  \caption{A favorite graph}
+\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+\textbf{}
+\href{https://github.com/stat850-unl/11-presentation-zgbjunl/blob/master/NannanResume.pdf}{Nannan Wang CV}
+\end{frame}
+
+\end{document}
+
+
