@@ -12,4 +12,8 @@ knitr::opts_chunk$set(echo = F)
 ```
 
 
--[test](SlideLatex.pdf)
+-[LatexSlides](SlideLatex.pdf) 
+-[R-markdown slides](NannanWang-rMarkdown-Slides.html)
+-[NannanCV](Nannan-Resume.pdf)
+
+
