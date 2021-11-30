@@ -16,5 +16,4 @@ knitr::opts_chunk$set(echo = F)
 -[R-markdown slides](NannanWang-rMarkdown-Slides.html)
 -[NannanCV](Nannan-Resume.pdf)
 
-test
 
