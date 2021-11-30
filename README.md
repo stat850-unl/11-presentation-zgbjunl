@@ -40,6 +40,6 @@ Upload the link to the compiled index.html file to Canvas to complete this assig
 
 
 If you have done all of the steps correctly, you should be able to find your index.html file by going to this url: 
-`https://stat850-unl.github.io/12-presentation-<your-gh-username-here>/`
+`https://stat850-unl.github.io/11-presentation-zgbjunl/`
     
 (Note that you'll have to replace the part in brackets appropriately.)
