@@ -15,5 +15,6 @@ knitr::opts_chunk$set(echo = F)
 - [LatexSlides](SlideLatex.pdf) <br />  
 - [R-markdown slides](NannanWang-rMarkdown-Slides.html)<br />  
 - [NannanCV](Nannan-Resume.pdf)<br />  
+- [Nannan Website](https://stat850-unl.github.io/11-presentation-zgbjunl/)
 
 
